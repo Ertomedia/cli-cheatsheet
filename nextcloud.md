@@ -140,3 +140,47 @@ Jalankan perintah berikut pada folder Nextcloud diinstal.
 sudo -u {USERNAME} /opt/rh/{PVP_VERSION}/root/bin/php occ db:add-missing-indices
 ```
 
+### The database is missing some optional columns.
+
+Pesan lengkap problemnya adalah,  
+`The database is missing some optional columns. Due to the fact that adding columns on big tables could take some time they were not added automatically when they can be optional. By running "occ db:add-missing-columns" those missing columns could be added manually while the instance keeps running. Once the columns are added some features might improve responsiveness or usability.`
+
+Cara penyelesaiannya,
+
+Jalankan perintah berikut pada folder instalasi Nextcloud.
+
+```bash
+sudo -u {USERNAME} /opt/rh/{PVP_VERSION}/root/bin/php occ db:add-missing-columns
+```
+
+### This instance is missing some recommended PHP modules.
+
+Pesan lengkap problemnya adalah,  
+`This instance is missing some recommended PHP modules. For improved performance and better compatibility it is highly recommended to install them.`
+
+Cara penyelesaiannya,
+
+1. Install modul PHP yang diminta. Contoh,
+
+   ```bash
+   sudo yum install -y php7.0-gmp
+   ```
+
+2. Cari tahu lokasi file `php.ini` dalam server dengan perintah,
+
+   ```bash
+   php --ini
+   ```
+
+3. Kemudian tambahkan pada file `php.ini` baris dibawah, pada bagian **Dynamic Extension**.
+
+   ```bash
+   extension=php_gmp.so
+   ```
+
+4. Langkah terakhir, restart `httpd` dengan perintah berikut.
+
+   ```bash
+   systemctl restart httpd
+   ```
+
