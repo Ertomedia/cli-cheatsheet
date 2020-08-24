@@ -1,3 +1,10 @@
+---
+description: >-
+  Git is a distributed version-control system for tracking changes in source
+  code during software development. It is designed for coordinating work among
+  programmers, but it can be used to track changes
+---
+
 # Git
 
 ![](.gitbook/assets/head_git.jpg)

@@ -1,3 +1,10 @@
+---
+description: >-
+  npm is a package manager for the JavaScript programming language. It consists
+  of a command line client, and an online database of public and paid-for
+  private packages, called the npm registry.
+---
+
 # npm
 
 ![](.gitbook/assets/head_npm.png)
