@@ -4,7 +4,9 @@ description: firebase adalah tool untuk deploy static site atau web app ke Fireb
 
 # Firebase
 
- Live demo: [https://climyid.web.app/](https://climyid.web.app/)
+![](.gitbook/assets/head_firebase.png)
+
+Live demo: [https://climyid.web.app/](https://climyid.web.app/)
 
 ## Perintah Umum
 

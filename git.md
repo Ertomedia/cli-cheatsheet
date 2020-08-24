@@ -1,5 +1,7 @@
 # Git
 
+![](.gitbook/assets/head_git.jpg)
+
 ## Perintah umum
 
  Untuk bantuan ketik `git help`.

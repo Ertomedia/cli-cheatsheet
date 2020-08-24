@@ -1,5 +1,7 @@
 # PowerShell
 
+![](.gitbook/assets/head_powershell.jpg)
+
 ## Perintah Umum
 
 ### Cek versi WSL distro Linux yang terinstall

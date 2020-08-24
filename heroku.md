@@ -4,6 +4,8 @@ description: heroku adalah tool untuk deploy static site ke Heroku.
 
 # Heroku
 
+![](.gitbook/assets/head_heroku.png)
+
 ## Instalasi
 
  Dengan menggunakan `npm`

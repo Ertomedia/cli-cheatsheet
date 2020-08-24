@@ -4,7 +4,9 @@ description: vercel adalah tool untuk deploy static site ke Vercel.
 
 # Vercel
 
- Live demo: [https://manual.now.sh](https://manual.now.sh)
+![](.gitbook/assets/head_vercel.png)
+
+Live demo: [https://manual.now.sh](https://manual.now.sh)
 
 ## Instalasi
 

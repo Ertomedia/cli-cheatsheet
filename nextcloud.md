@@ -7,7 +7,9 @@ description: >-
 
 # Nextcloud
 
- Live demo: [https://try.nextcloud.com/](https://try.nextcloud.com/)
+![](.gitbook/assets/head_nextcloud.jpg)
+
+Live demo: [https://try.nextcloud.com/](https://try.nextcloud.com/)
 
 ## Perintah Umum
 

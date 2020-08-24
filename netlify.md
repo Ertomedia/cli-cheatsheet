@@ -4,7 +4,9 @@ description: netlify adalah tool untuk deploy static site ke Netlify.
 
 # Netlify
 
- Live demo: [https://climyid.netlify.com/](https://climyid.netlify.com/)
+![](.gitbook/assets/head_netlify.png)
+
+Live demo: [https://climyid.netlify.com/](https://climyid.netlify.com/)
 
 ## Perintah umum
 

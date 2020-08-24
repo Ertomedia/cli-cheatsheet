@@ -4,6 +4,8 @@ description: Chocolatey adalah package manager untuk Windows.
 
 # Chocolatey
 
+![](.gitbook/assets/head_chocolatey.png)
+
 ## Kebutuhan sistem
 
 1. Windows 7+ / Windows Server 2003+

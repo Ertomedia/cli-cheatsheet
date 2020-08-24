@@ -6,6 +6,8 @@ description: >-
 
 # Hugo
 
+![](.gitbook/assets/head_hugo.png)
+
 ## Instalasi
 
 Unduh versi terbaru Hugo dengan cara berikut.

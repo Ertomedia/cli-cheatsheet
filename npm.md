@@ -1,5 +1,7 @@
 # npm
 
+![](.gitbook/assets/head_npm.png)
+
 ## Perintah Umum
 
 ### Buat app baru

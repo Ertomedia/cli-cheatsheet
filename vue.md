@@ -1,5 +1,7 @@
 # Vue
 
+![](.gitbook/assets/head_vuejs.jpg)
+
 ## Instalasi
 
 ### Via npm
