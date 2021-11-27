@@ -14,4 +14,4 @@
 * [PowerShell](powershell.md)
 * [Vercel](vercel.md)
 * [Vue](vue.md)
-
+* [Deta](deta.md)
